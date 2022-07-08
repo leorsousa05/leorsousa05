@@ -15,7 +15,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=leorsousa05&theme=dracula"/>
 </div>
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=leorsousa05&show_icons=true&theme=dracula)](https://git.io/streak-stats)
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorsousa05&show_icons=true&theme=dracula" />
+</div>
+
 
 ## Tecnologias que uso no meu dia a dia
 
