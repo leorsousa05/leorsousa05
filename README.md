@@ -1,8 +1,20 @@
-### Olá, eu me chamo Leonardo
+### Olá, eu me chamo Leonardo ✌
+<br>
 
-[![Leorsousa05 GitHub stats](https://github-readme-stats.vercel.app/api?username=leorsousa05&show_icons=true&theme=radical)](https://github.com/leorsousa05)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leorsousa05&show_icons=true&theme=radical)](https://github.com/leorsousa05)
+<div align="center">
+    <p align="left">Sou Desenvolvedor Front-end e apaixonado em estudar e fazer aplicações que facilitam o dia a dia de programadores e usuários.</p>
+    <img width="200px" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif"/>
+</div>
+<br>
+
+## Meu Github
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=leorsousa05&show_icons=true&theme=dracula" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leorsousa05&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorsousa05&show_icons=true&theme=dracula" />
+
+</div>
 
 ## Tecnologias que uso no meu dia a dia 
 <div align="center" >
