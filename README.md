@@ -11,8 +11,8 @@
 ## Meu Github
 
 <div style="display:flex;" >
-    <img style="padding-right:1rem;" src="https://github-readme-stats.vercel.app/api?username=leorsousa05&show_icons=true&theme=dracula" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leorsousa05&theme=dracula" />
+    <img style="padding-right:1rem; width: 100%" src="https://github-readme-stats.vercel.app/api?username=leorsousa05&show_icons=true&theme=dracula" />
+    <img style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=leorsousa05&theme=dracula" />
 </div>
 
 ## Tecnologias que uso no meu dia a dia
