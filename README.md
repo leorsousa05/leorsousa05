@@ -10,15 +10,9 @@
 
 ## Meu Github
 
-<div align="center" style="display:flex; flex-direction:column;">
-    <img src="https://github-readme-stats.vercel.app/api?username=leorsousa05&show_icons=true&theme=dracula" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leorsousa05&theme=dracula"/>
-</div>
+[![Leonardo Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=leorsousa05&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorsousa05&show_icons=true&theme=dracula" />
-</div>
-
+[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=leorsousa05&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia a dia
 
