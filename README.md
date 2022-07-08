@@ -15,7 +15,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=leorsousa05&theme=dracula"/>
 </div>
 
-<div>
+<div align="center" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorsousa05&show_icons=true&theme=dracula" />
 </div>
 
