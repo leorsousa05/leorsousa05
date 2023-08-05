@@ -1,5 +1,7 @@
 ### Olá, eu me chamo Leonardo ✌
 
+Linkedin: https://www.linkedin.com/in/leonardo-ribeiro-de-sousa-393935203/
+
 <br>
 
 <div align="center">
