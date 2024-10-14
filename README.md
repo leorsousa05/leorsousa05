@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <p align="left">Sou Desenvolvedor Front-end e apaixonado em estudar e fazer aplicações que facilitam o dia a dia de programadores e usuários. Também tenho um blog sobre consoles portáteis <a href="https://handheldcentral.com"></a></p>
+    <p align="left">Sou Desenvolvedor Front-end e apaixonado em estudar e fazer aplicações que facilitam o dia a dia de programadores e usuários. Também tenho um blog sobre consoles portáteis: <a href="https://handheldcentral.com">handheld central</a>.</p>
     <img width="200px" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif"/>
 </div>
 <br>
